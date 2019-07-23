@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Math Game</string>
+    <string name="play_button_text">Play</string>
+    <string name="high_scores_button_text">High Scores</string>
+    <string name="quit_button_text">Quit</string>
+    <string name="text_equal">=</string>
+    <string name="text_score">Score: %d</string>
+    <string name="text_level">Level: %d</string>
+    <string name="toast_success">Well done!</string>
+    <string name="toast_failure">Sorry, that\'s wrong.</string>
+    <string name="app_logo">App logo</string>
+</resources>
